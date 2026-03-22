@@ -1,5 +1,5 @@
-# PGDPL
-The official pytorch implemention of the paper ”Prototype-Guided Distillation and Personalized Learning: A Dual-Network Framework for Label-Noisy Endoscopic Images”
+# PGDR
+The official pytorch implemention of the paper ”PGDR: Prototype-Guided Dual-Space Reliability Modeling for Label-Noisy Endoscopic Image Learning”
 # Introduction
 we propose a dual-network framework that incorporates a prototype-guided sample selection strategy and personalized learning to leverage noisy samples to enhance model robustness and thereby improve the performance of endoscopic image analysis under noisy-label scenarios.
 # Dependencies
